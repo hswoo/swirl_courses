@@ -1,4 +1,4 @@
-- Class: meta
+﻿- Class: meta
   Course: R Programming
   Lesson: Basic Building Blocks
   Author: Nick Carchedi
@@ -7,7 +7,7 @@
   Version: 2.2.0
 
 - Class: text
-  Output: In this lesson, we will explore some basic building blocks of the R programming
+  Output: In this 레슨, we will explore some basic building blocks of the R programming
     language.
 
 - Class: text
