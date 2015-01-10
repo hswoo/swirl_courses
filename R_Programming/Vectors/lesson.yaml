@@ -1,4 +1,4 @@
-- Class: meta
+﻿- Class: meta
   Course: R Programming
   Lesson: Vectors
   Author: Nick Carchedi
@@ -7,7 +7,7 @@
   Version: 2.2.0
 
 - Class: text
-  Output: The simplest and most common data structure in R is the vector.
+  Output: The 간단 and most common data structure in R is the vector.
 
 - Class: text
   Output: 'Vectors come in two different flavors: atomic vectors and lists. An atomic
